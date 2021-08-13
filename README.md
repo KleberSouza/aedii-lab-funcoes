@@ -24,13 +24,5 @@ Para cada exercícios deverá ser gerado um conjunto de, no mínimo, 10 casos de
 Para executar o teste do exercício, basta executar o script `test.sh`, informando qual é o exercício que deseja testar. 
 
 ```
-./test.sh exe01
-```
-
-## Avaliação
-
-Para executar a avaliação de todos os exercícios, basta executar o script `eval.sh`. 
-
-```
-./eval.sh
+bash test.sh exe01
 ```
